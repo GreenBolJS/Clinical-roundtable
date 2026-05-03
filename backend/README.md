@@ -1,6 +1,6 @@
 # The Clinical Roundtable
 
-A **Recursive Multi-Agent Clinical Intelligence System** built with FastAPI, LangGraph, Groq, Gemini, ChromaDB, and PostgreSQL.
+A **Recursive Multi-Agent Clinical Intelligence System** built with FastAPI, LangGraph, Groq, ChromaDB, and PostgreSQL.
 
 Specialist agents — Diagnostic Pathologist, PharmacogenomicsSpecialist, Chief Medical Officer, Adversarial Auditor, Literature Critic, Bio-Sensor Analyst, and Citation Agent — collaborate in parallel to produce comprehensive clinical reports with confidence scoring and human-in-the-loop escalation.
 
@@ -318,6 +318,3 @@ clinical_roundtable/
 
 ---
 
-## License
-
-MIT
