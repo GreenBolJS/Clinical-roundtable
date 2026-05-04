@@ -1,5 +1,5 @@
 # Clinical Roundtable
-### Recursive Multi-Agent Clinical Intelligence System
+### Multi-Agent Clinical Intelligence System
 
 ---
 
